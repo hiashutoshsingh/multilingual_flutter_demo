@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'constants.dart';
 import 'generated/l10n.dart';
 import 'home.dart';
 
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      supportedLocales: Constants.all,
+      supportedLocales: S.delegate.supportedLocales,
       localizationsDelegates: [
         S.delegate,
         GlobalMaterialLocalizations.delegate,

@@ -1,0 +1,4 @@
+#Thu Aug 19 16:58:09 IST 2021
+base.0=/Users/i0868/Documents/projects/multilingual_flutter_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
