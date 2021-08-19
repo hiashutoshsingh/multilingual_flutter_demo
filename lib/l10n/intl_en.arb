@@ -1,1 +1,14 @@
-{}
+{
+  "language": "English",
+  "@language":{
+    "description": "test"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "test"
+  },
+  "changeLanguage": "Change Language",
+  "@helloWorld": {
+    "description": "test"
+  }
+}
